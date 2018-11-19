@@ -1,0 +1,15 @@
+{
+  "name": "kode24-julekalender-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.12",
+    "nodemon": "^1.18.6"
+  }
+}
